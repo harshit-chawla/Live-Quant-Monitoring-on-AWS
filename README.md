@@ -20,10 +20,8 @@ A lightweight, real-time **task scheduler** and **monitoring dashboard** built o
 |------|-------------|
 | `streamlit_app/streamlit_dashboard.py` | Streamlit app to list & run cron jobs |
 | `streamlit_app/launch_gui_terminal.py` | Launch Streamlit GUI in xfce4-terminal |
-| `aws_setup/ubuntu_gui_setup.sh` | Installs XFCE GUI environment |
-| `aws_setup/install_streamlit.sh` | Installs Streamlit and dependencies |
 | `screenshots/streamlit_dashboard.png` | Screenshot of GUI |
-| `app_launcher.desktop` | (Optional) Linux desktop shortcut |
+| `screenshots/streamlit_dashboard.png` | Screenshot of Streamlit App Task Scheduler |
 
 ---
 
