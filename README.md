@@ -25,7 +25,7 @@ A lightweight, real-time **task scheduler** and **monitoring dashboard** built o
 
 ---
 
-## 🖼️ Screenshot
+## 🖼️ Task Scheduler StreamlitApp
 
 ![Streamlit Dashboard](Screen-Shots/streamlit_dashboard.png)
 
