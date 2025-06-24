@@ -41,5 +41,19 @@ A lightweight, real-time **task scheduler** and **monitoring dashboard** built o
 ### 1. Launch a t2.medium Ubuntu EC2 instance
 
 ### 2. SSH and run GUI setup
-```bash
-bash aws_setup/ubuntu_gui_setup.sh
+```bash```
+
+## ⚙️ Requirements
+
+- Ubuntu 20.04+
+- Streamlit
+- XFCE4
+- Python 3.8+
+- `crontab` and `xfce4-terminal` installed
+
+---
+
+## 📬 Contact
+
+Harshit Chawla  
+[LinkedIn](https://www.linkedin.com/in/harsh56/) • [Email](mailto:hshtchwl@gmail.com)
