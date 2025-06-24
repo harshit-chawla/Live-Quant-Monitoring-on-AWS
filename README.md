@@ -29,10 +29,10 @@ A lightweight, real-time **task scheduler** and **monitoring dashboard** built o
 
 ## 🖼️ Screenshot
 
-![Streamlit Dashboard](screenshots/streamlit_dashboard.png)
+![Streamlit Dashboard](Screen-Shots/streamlit_dashboard.png)
 
 ## 🖼️ Aws Backtest Ubuntu-GUI-Server
-![Streamlit Dashboard](screenshots/streamlit_dashboard1.png)
+![Streamlit Dashboard](Screen-Shots/streamlit_dashboard1.png)
 
 ---
 
